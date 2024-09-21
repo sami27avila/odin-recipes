@@ -17,7 +17,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/sami27avila/Odin-Recipes/deployments/github-pages)
+[Live Demo Link](https://sami27avila.github.io/Odin-Recipes/)
 
 ## Getting Started
 
