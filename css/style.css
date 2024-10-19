@@ -1,0 +1,36 @@
+body{
+    background-color:  #d57f6c;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: white;
+    font-family: 'Arial Narrow', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-shadow: 4px 4px black;
+}
+
+ul{
+    background-color: #ebbbab ;
+    border: 2px solid white;
+    height: 70px;
+    font-size: 17px;
+    
+}
+
+li, a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Arial Narrow', sans-serif;
+    text-shadow: 4px 4px 10px black;
+    
+}
+
+a:hover{
+    color: red;
+}
